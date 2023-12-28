@@ -44,7 +44,7 @@ We welcome contributions in the form of bug reports, feature requests, code enha
 
 ## Bug Reports and Feature Requests
 
-If you encounter a bug or have a feature request, please open an issue on the [Issues](https://github.com/agart001/PROG450_Final/issues) page. Provide detailed information about the bug or feature you're requesting, including steps to reproduce the issue.
+If you encounter a bug or have a feature request, please open an issue on the [Issues](https://github.com/agart001/PROG450_Final/ISSUES/ISSUES_TEMPLATE.md) page. Provide detailed information about the bug or feature you're requesting, including steps to reproduce the issue.
 
 ## License
 
