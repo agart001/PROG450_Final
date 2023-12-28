@@ -23,7 +23,6 @@ To get started with the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/agart001/PROG450_Final.git`
 2. Navigate to the project directory: `cd PROG450_Final`
-3. [Additional steps if necessary]
 
 For more detailed instructions, dependencies, and troubleshooting, refer to the documentation in the respective directories.
 
@@ -33,7 +32,7 @@ We welcome contributions from the community to enhance and improve this project.
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE.md](LICENSE.txt) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Acknowledgments
 
